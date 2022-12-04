@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 > *The skilled fingers on the typewriter are a wonderful fountain of kinetic energy*
 > 
-> – David Avidan
+> – [David Avidan](https://www.asymptotejournal.com/poetry/david-avidan-five-poems/)
 
 ---
 
