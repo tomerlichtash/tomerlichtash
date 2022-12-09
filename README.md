@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 ---
 
 - 🔭 I’m currently working on [Mel's Loop](https://github.com/tomerlichtash/mels-loop)
-- 🌱 I’m currently learning what one might hack with Web Components
 - 👯 I’m looking to collaborate on readable, useful, frontendeseque, open source projects
-- 🤔 I’m looking for help with anything NextJS
-- 💬 Ask me about Hacker Folklore
-- 📫 How to reach me: [Twitter](https://twitter.com/tomerlichtash)
-- ⚡ Fun fact: The universe could stop expanding 'remarkably soon', [study suggests](https://www.livescience.com/end-cosmic-expansion)
+- 📫 How to reach me: [Twitter](https://twitter.com/tomerlichtash) / [LinkedIn](https://www.linkedin.com/in/tomerlichtash/)
+
+⚡ Fun fact: The universe could stop expanding 'remarkably soon', [study suggests](https://www.livescience.com/end-cosmic-expansion)
